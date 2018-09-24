@@ -14,4 +14,4 @@ The page will reload if you make edits.<br>
 You will also see any lint errors in the console.
 
 ## Screenshot
-![screen shot 2018-09-24 at 11 42 30 am](https://user-images.githubusercontent.com/228359/45971967-4590b300-bfef-11e8-99bf-1d8959277901.png)
+![screen shot 2018-09-24 at 3 42 25 pm](https://user-images.githubusercontent.com/228359/45983194-8a791180-c010-11e8-817d-901b87e493fc.png)

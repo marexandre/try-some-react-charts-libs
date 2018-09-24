@@ -1,7 +1,7 @@
 import React from "react";
 import PropTypes from "prop-types";
 
-import { getZone, ZONES } from "./utils";
+import { getZone, ZONES } from "../utils";
 
 class TrainingSuggestion extends React.Component {
   getProgressTitleText = (value, buckets) => {
