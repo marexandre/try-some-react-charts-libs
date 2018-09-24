@@ -26,24 +26,7 @@
       "week": 35,
       "cumulative_score": 191,
       "daily_scores": [0, 0, 43, 41, 107, 0, 0],
-      "buckets": [121.84, 182.76, 243.68, 304.6],
-      "activity_totals": {
-        "ride": {
-          "activity_count": 3,
-          "total_score": 191,
-          "duration": 23910
-        },
-        "run": {
-          "activity_count": 0,
-          "total_score": 0,
-          "duration": 0
-        },
-        "other": {
-          "activity_count": 0,
-          "total_score": 0,
-          "duration": 0
-        }
-      }
+      "buckets": [121.84, 182.76, 243.68, 304.6]
     },
     {
       "year": 2018,
