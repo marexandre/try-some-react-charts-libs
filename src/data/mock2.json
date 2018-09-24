@@ -1,0 +1,105 @@
+{
+  "weekly_scores": [
+    {
+      "year": 2018,
+      "week": 38,
+      "cumulative_score": 86,
+      "daily_scores": [0, 0, 0, 0, 0, 86, 0],
+      "buckets": [127.94, 191.91, 255.87, 319.84]
+    },
+    {
+      "year": 2018,
+      "week": 37,
+      "cumulative_score": 27,
+      "daily_scores": [27, 0, 0, 0, 0, 0, 0],
+      "buckets": [159.92, 239.88, 319.84, 399.8]
+    },
+    {
+      "year": 2018,
+      "week": 36,
+      "cumulative_score": 336,
+      "daily_scores": [239, 0, 25, 41, 0, 31, 0],
+      "buckets": [118.22, 177.33, 236.44, 295.55]
+    },
+    {
+      "year": 2018,
+      "week": 35,
+      "cumulative_score": 191,
+      "daily_scores": [0, 0, 43, 41, 107, 0, 0],
+      "buckets": [121.84, 182.76, 243.68, 304.6],
+      "activity_totals": {
+        "ride": {
+          "activity_count": 3,
+          "total_score": 191,
+          "duration": 23910
+        },
+        "run": {
+          "activity_count": 0,
+          "total_score": 0,
+          "duration": 0
+        },
+        "other": {
+          "activity_count": 0,
+          "total_score": 0,
+          "duration": 0
+        }
+      }
+    },
+    {
+      "year": 2018,
+      "week": 34,
+      "cumulative_score": 246,
+      "daily_scores": [52, 0, 80, 0, 0, 114, 0],
+      "buckets": [96.03, 144.05, 192.06, 240.08]
+    },
+    {
+      "year": 2018,
+      "week": 33,
+      "cumulative_score": 172,
+      "daily_scores": [0, 0, 10, 34, 0, 128, 0],
+      "buckets": [106.89, 160.34, 213.78, 267.23]
+    },
+    {
+      "year": 2018,
+      "week": 32,
+      "cumulative_score": 74,
+      "daily_scores": [11, 42, 21, 0, 0, 0, 0],
+      "buckets": [133.61, 200.42, 267.22, 334.03]
+    },
+    {
+      "year": 2018,
+      "week": 31,
+      "cumulative_score": 259,
+      "daily_scores": [0, 127, 0, 0, 43, 62, 27],
+      "buckets": [111.48, 167.22, 222.95, 278.69]
+    },
+    {
+      "year": 2018,
+      "week": 30,
+      "cumulative_score": 158,
+      "daily_scores": [0, 0, 41, 38, 0, 79, 0],
+      "buckets": [128.69, 193.04, 257.38, 321.73]
+    },
+    {
+      "year": 2018,
+      "week": 29,
+      "cumulative_score": 235,
+      "daily_scores": [0, 55, 0, 32, 0, 148, 0],
+      "buckets": [115.56, 173.34, 231.12, 288.9]
+    },
+    {
+      "year": 2018,
+      "week": 28,
+      "cumulative_score": 162,
+      "daily_scores": [0, 0, 0, 47, 0, 45, 70],
+      "buckets": [136.54, 204.82, 273.09, 341.36]
+    },
+    {
+      "year": 2018,
+      "week": 27,
+      "cumulative_score": 272,
+      "daily_scores": [0, 41, 68, 0, 0, 87, 76],
+      "buckets": [101, 151.5, 202, 252.5]
+    }
+  ]
+}
