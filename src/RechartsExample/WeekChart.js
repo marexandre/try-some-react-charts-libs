@@ -19,8 +19,8 @@ class WeekChart extends React.Component {
     }));
 
     return (
-      <BarChart data={barData} height={90} width={140}>
-        <XAxis dataKey="w" tick={tickTextStyle} stroke="none" />
+      <BarChart data={barData} height={90} width={115}>
+        <XAxis dataKey="w" tick={tickTextStyle} stroke="none" minTickGap={0} />
         <Bar dataKey="x" fill="#8884d8" barSize={8} minPointSize={1} />
       </BarChart>
     );

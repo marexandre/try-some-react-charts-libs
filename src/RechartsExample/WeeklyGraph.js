@@ -97,6 +97,7 @@ class WeeklyGraph extends React.Component {
             tickLine={{ stroke: tickColor }}
             stroke="none"
             tickFormatter={this.tickFormat}
+            minTickGap={0}
           />
           <YAxis
             orientation="right"
